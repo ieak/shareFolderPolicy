@@ -1,7 +1,6 @@
 # shareFolderPolicy
 This script is written to search folders shared with "everyone" in a computer, list them, then remove share from that folders automatically.
 
-#---#
 # Description and Scope
 
 ShareFolderPolicy application is created to control shared files on a computer 
@@ -12,13 +11,11 @@ with Everyone to prevent security gaps.
  3 - Remove share from directory
  4 - Keep a report file on network to monitor activities.
  
-#---#
 # Author and Contact
 
 Author	: Iffet Kurukose
 Contact	: oguz.iffet@gmail.com
 
-#---#
 # How to run
 # Basically double click for "runShareFolderPolicy.bat" script. 
 # For a correct configuration please follow the steps below:
@@ -41,7 +38,6 @@ Contact	: oguz.iffet@gmail.com
 		Detailed Share List				: shareList.txt
 		Shared Files List with Everyone			: sharedFilesWithEveryone
 
-#---#
 # "ListAllSharedFolderPermission.ps1" file is retrieved from the address below:
 # https://gallery.technet.microsoft.com/scriptcenter/Lists-all-the-shared-5ebb395a
 
